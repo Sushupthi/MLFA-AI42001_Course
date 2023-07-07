@@ -22,4 +22,3 @@ Description: This project addresses the problem of spam detection in emails. It 
 4. K-Nearest Neighbors (KNN):
 
 Description: This project focuses on the KNN algorithm, a popular instance-based learning method. It includes implementing KNN for classification and regression tasks, tuning hyperparameters, and evaluating the model's performance.
-Techniques: KNN algorithm, distance metrics, hyperparameter tuning.
