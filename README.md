@@ -1,1 +1,1 @@
-# MLFA-AI42001_Course
+Welcome to the MLFA AI42001 Projects Repository! This GitHub repository contains a collection of projects completed as part of the MLFA AI42001 course. These projects showcase various machine learning techniques and algorithms implemented in Python.
